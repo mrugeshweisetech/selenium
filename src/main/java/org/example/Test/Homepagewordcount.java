@@ -60,4 +60,6 @@ public class Homepagewordcount {
     public void flushReport() {
         extent.flush();
     }
+
+    
 }
