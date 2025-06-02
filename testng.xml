@@ -4,7 +4,7 @@
 <suite name="BarSys_Automation">
     <test name="Home Page Test">
         <classes>
-            <class name ="org.example.Test.Contentaudittest"/>
+            <class name ="org.example.Test.Uiinteractiontest"/>
       </classes></test>
 </suite>
 
